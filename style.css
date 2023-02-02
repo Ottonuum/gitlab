@@ -1,0 +1,39 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+}
+
+
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    margin-top: 30px;
+
+}
+
+.buttons {
+    display: flex;
+    gap: 30px;
+    list-style: none;
+    flex-direction: row;
+}
+
+a {
+    text-decoration-line: none;
+    color: black;
+}
+
+.list1 {
+    list-style: none;
+        display: flex;
+        flex-direction: row;
+        gap: 50px;
+        color: black;
+}
+
+.navigation {
+    display: flex;
+    
+}
