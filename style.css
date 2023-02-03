@@ -35,5 +35,5 @@ a {
 
 .navigation {
     display: flex;
-    
+    align-items: right;
 }
